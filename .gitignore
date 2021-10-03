@@ -1,3 +1,1 @@
-
-*.ipynb
-.ipynb_checkpoints/Welcome_to_Python3-checkpoint.ipynb
+.ipynb_checkpoints/*
